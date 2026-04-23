@@ -3,7 +3,8 @@
 	url = https://github.com/google/googletest.git
 [submodule "external/composable_kernel"]
 	path = external/composable_kernel
-	url = https://github.com/ROCm/composable_kernel.git
+	url = https://github.com/AMD-ROCm-Internal/composable_kernel.git
+       branch = gfx1250_pytorch
 [submodule "external/cutlass"]
 	path = external/cutlass
 	url = https://github.com/jwfromm/cutlass.git
